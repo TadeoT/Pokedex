@@ -1,0 +1,22 @@
+
+#paginacion{
+    position: relative;
+    top: 50%;
+    left: 40%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+
+
+.imagenesPokemon{
+    width: 50%;
+    height: auto;
+}
+#cartaIndividual{
+    position: relative;
+    top: 50%;
+    left: 25%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+}
