@@ -1,6 +1,6 @@
 /// <reference types="jquery" />
 
-url = "https://pokeapi.co/api/v2/pokemon/"
+const url = "https://pokeapi.co/api/v2/pokemon/"
 siguiente(url);
 
 
